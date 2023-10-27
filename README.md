@@ -7,7 +7,7 @@
   <a href="https://discordapp.com/users/710463143339622470/">
   <img src="https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https%3A%2F%2Fosu.ppy.sh%2Fusers%2F16945386">
+  <a href="https://osu.ppy.sh/users/16945386">
   <img src="https://img.shields.io/badge/Osu!-%23f64a8a?style=for-the-badge&logo=osu&logoColor=white" alt="Osu Badge"/>
   </a>
 </div>
